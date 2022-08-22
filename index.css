@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+div {
+  display: block;
+}
+
+/* card-style */
+
+.card {
+  width: 41.2rem;
+  height: 41.6rem;
+  background: radial-gradient(
+    at top,
+    rgb(38, 42, 54),
+    rgb(30, 37, 47),
+    rgb(27, 34, 45),
+    rgb(22, 29, 39)
+  );
+  border-radius: 2rem;
+  padding: 3rem;
+}
