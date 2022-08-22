@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --back-color: #121417;
+  --gray-color: #959eac;
+  --orange-color: #fc7614;
+  --white-color: #ffffff;
+}
